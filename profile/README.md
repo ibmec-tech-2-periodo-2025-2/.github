@@ -1,7 +1,7 @@
 # Mural das Disciplinas
 
 - [Link dos slides - aula inaugural](https://docs.google.com/presentation/d/1RbEM4AyDXNAtJfMlo-lWEWMNexcngyNeC-RVq-oPaWY/edit?usp=sharing)
-- [Cronogramas de Aulas - em breve](#)
+- [Slides projeto](https://docs.google.com/presentation/d/1WhcmPL6o3zCwUjxxyQNF7d44-AmTVTR8ej00qzn1UnQ/edit?usp=sharing)
 
 ## Objetivos
 
