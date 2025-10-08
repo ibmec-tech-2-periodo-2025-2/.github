@@ -3,6 +3,7 @@
 - [Link dos slides - aula inaugural](https://docs.google.com/presentation/d/1RbEM4AyDXNAtJfMlo-lWEWMNexcngyNeC-RVq-oPaWY/edit?usp=sharing)
 - [Slides projeto](https://docs.google.com/presentation/d/1WhcmPL6o3zCwUjxxyQNF7d44-AmTVTR8ej00qzn1UnQ/edit?usp=sharing)
 - [Design Kit - Bulbe (CÓPIA)](https://www.figma.com/design/TKymmHHAUIIoJZnhp52Ijz/Bulbe----IBMEC--Copy-?node-id=46-388&t=dkSu0yUhdN1Rn0aj-1)
+- [Modelos de Relatório Scrum](https://github.com/ibmec-tech-2-periodo-2025-2/.github)
 
 ## Objetivos
 
